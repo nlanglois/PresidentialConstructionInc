@@ -1,0 +1,43 @@
+= Maisha Lite change log =
+
+Version 1.2.8 - October 9, 2017
+- custom Logo option deprecated and added to core Site Identity section inside the Customizer
+Version 1.2.7 - April 17, 2017
+- new .pot file and few code clearings
+Version 1.2.4 - December 29, 2016
+- from WordPress 4.7 Customizer “Custom CSS” section migrated to the core Customizer section called “Additional CSS” - changes inside the inc folder “customizer.php” file
+Version 1.2.2, 1.2.3 - January 29, 2016
+-fixes for the menu dropdown - accessibility
+Version 1.2.1 - August 2, 2015
+-fixes for accessibility
+Version 1.2 - July 25, 2015
+-fixes for accessibility
+Version 1.1.9 - July 22, 2015
+-fixes for accessibility
+Version 1.1.7 & 1.1.8 - July 21, 2015
+-fixes for accessibility
+- style fixes inside style.css file
+Version 1.1.6 - July 20, 2015
+-fixes for accessibility
+Version 1.1.5 - July 19, 2015
+-fix for the wp_get_attachment_image_src
+Version 1.1.2, 1.1.3, 1.1.4 - July 11, 2015
+-fixes for accessibility
+Version 1.1.1 - July 8, 2015
+-fix for the escaping inside all files: instead of _e or __ ,  added:
+esc_html_e( 'This is an echoed string', 'themename' );
+esc_attr__( 'This is an attribute string to be passed as a parameter', 'themename' );
+Version 1.1 - July 1, 2015
+-fix for the escaping inside the inc/maisha_customizer_style.php file
+Version 1.0.9 - June 30, 2015
+-style fixes for the better accessibility
+Version 1.0.8 - June 30, 2015
+-removed display descriptions in main navigation from functions.php file
+Version 1.0.4,1.0.5, 1.0.6 & 1.0.7 - June 29, 2015
+- different file fixes , fix for the languages folder
+Version 1.0.3 - June 17, 2015
+- small file fixes
+Version 1.0.2 - June 8, 2015
+- small fix inside the content-front-page.php and header-custom.php files
+Version 1.0.1 - June 1, 2015
+Version 1.0 - June 1, 2015

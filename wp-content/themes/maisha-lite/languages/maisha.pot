@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maisha\n"
+"POT-Creation-Date: 2016-06-30 12:45+0200\n"
+"PO-Revision-Date: 2016-06-30 12:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_nx;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: admin/admin.php:7
+msgid "Welcome to Maisha Lite"
+msgstr ""
+
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+#: admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: admin/admin.php:25
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: admin/admin.php:31 inc/customizer.php:240
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:34
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:38
+msgid "Visit Documentation"
+msgstr ""
+
+#: admin/admin.php:44
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:47
+msgid "Click \"Customize\" to open the Customizer."
+msgstr ""
+
+#: admin/admin.php:51
+msgid "Customize"
+msgstr ""
+
+#: admin/admin.php:57
+msgid "Maisha Pro"
+msgstr ""
+
+#: admin/admin.php:60
+msgid ""
+"Full version of this theme includes additional features; additional page "
+"templates, custom widgets, additional front page options, different blog "
+"options, different theme options, WooCommerce support, color options & "
+"premium theme support."
+msgstr ""
+
+#: admin/admin.php:64 inc/customizer.php:138
+msgid "Read more about Maisha"
+msgstr ""
+
+#: admin/admin.php:70
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:77
+#, php-format
+msgid "%1s is proudly brought to you by %2s. If you like %3s: %4s."
+msgstr ""
+
+#: admin/admin.php:77 inc/customizer.php:242
+msgid "Rate this theme"
+msgstr ""
+
+#: archive.php:46 index.php:40 search.php:44
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:47 index.php:41 search.php:45
+msgid "Next page"
+msgstr ""
+
+#: archive.php:48 content-front-firstblock.php:26 content-front-page.php:26
+#: content-full-page.php:19 content-grid.php:37 content-link.php:46
+#: content-page.php:19 content-quote.php:32 content-quote.php:54 content.php:48
+#: index.php:42 search.php:46
+msgid "Page"
+msgstr ""
+
+#: author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: content-front-firstblock.php:22 content-front-page.php:22
+#: content-full-page.php:15 content-grid.php:33 content-link.php:42
+#: content-page.php:15 content-quote.php:28 content-quote.php:50 content.php:44
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content-grid.php:27 content-link.php:37 content-quote.php:23
+#: content-quote.php:45 content.php:39 inc/template-tags.php:236
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-link.php:29 content-quote.php:64 content-search.php:31
+#: content.php:31
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s."
+msgstr ""
+
+#: functions.php:70 header.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:71
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:137
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:139
+msgid "This is widgetized sidebar area for your blog/post page"
+msgstr ""
+
+#: functions.php:146
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:148
+msgid "Use this widget area to display widgets in the footer"
+msgstr ""
+
+#: functions.php:155
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:157
+msgid ""
+"This is widgetized sidebar area for pages that are using default template"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: functions.php:178
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:182
+msgid "no-subset"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "First Content Block"
+msgstr ""
+
+#: inc/customizer.php:42 inc/customizer.php:50
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: inc/customizer.php:59 inc/customizer.php:70
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:81 inc/customizer.php:89
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Didi Pro"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid ""
+"Full version of this theme includes additional features; additional page "
+"templates, custom widgets, additional front page widgetized areas, different "
+"blog options, different theme options, WooCommerce support, color options & "
+"premium theme support."
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Additional Features:"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Additional Page Templates"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Several additional widget areas"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Different Blog Options & Layouts"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Different Theme Options"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "WooCommerce Support"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Premium Theme Support"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Pro Features"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Upgrade to Maisha Pro"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Theme Related Links:"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Theme Info Page"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:90 inc/template-tags.php:98
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:112
+msgid "Full size"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "% Comments"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:34
+msgid "Next"
+msgstr ""
+
+#: single.php:35
+msgid "Next post:"
+msgstr ""
+
+#: single.php:37
+msgid "Previous"
+msgstr ""
+
+#: single.php:38
+msgid "Previous post:"
+msgstr ""

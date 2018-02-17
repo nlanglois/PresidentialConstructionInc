@@ -1,0 +1,573 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-17 14:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. %s: Name of current post
+#. %s: Name of current post
+#. %s: Name of current post
+#. %s: Name of current post
+#: content-grid.php:27 content-quote.php:23 content-quote.php:45 
+#: content.php:39 content-link.php:37 inc/template-tags.php:236
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-grid.php:33 content-quote.php:28 content-quote.php:50 
+#: content-page.php:15 content-front-firstblock.php:22 content.php:44 
+#: content-front-page.php:22 content-link.php:42 content-full-page.php:15
+msgid "Pages:"
+msgstr ""
+
+#: content-grid.php:37 content-quote.php:32 content-quote.php:54 
+#: content-page.php:19 content-front-firstblock.php:26 search.php:46 
+#: content.php:48 content-front-page.php:26 content-link.php:46 
+#: content-full-page.php:19 index.php:42
+msgid "Page"
+msgstr ""
+
+#: content-quote.php:64 content-search.php:31 content.php:31 
+#: content-link.php:29
+msgid "Edit"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:42 functions.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:44 index.php:40
+msgid "Previous page"
+msgstr ""
+
+#: search.php:45 index.php:41
+msgid "Next page"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:34
+msgid "Next"
+msgstr ""
+
+#: single.php:35
+msgid "Next post:"
+msgstr ""
+
+#: single.php:37
+msgid "Previous"
+msgstr ""
+
+#: single.php:38
+msgid "Previous post:"
+msgstr ""
+
+#: functions.php:71
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:137
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:139
+msgid "This is widgetized sidebar area for your blog/post page"
+msgstr ""
+
+#: functions.php:146
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:148
+msgid "Use this widget area to display widgets in the footer"
+msgstr ""
+
+#: functions.php:155
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:157
+msgid ""
+"This is widgetized sidebar area for pages that are using default template"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: functions.php:178
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#. To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:182
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s."
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:90 inc/template-tags.php:98
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:93
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:112
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "% Comments"
+msgstr ""
+
+#. Name of the template
+#: inc/customizer.php:22
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "First Content Block"
+msgstr ""
+
+#: inc/customizer.php:42 inc/customizer.php:50
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: inc/customizer.php:59 inc/customizer.php:70
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:98 inc/customizer.php:106
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:119 admin/admin.php:153
+msgid "Maisha Pro"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid ""
+"Full version of this theme includes additional features; additional page "
+"templates, custom widgets, additional front page widgetized areas, different "
+"blog options, different theme options, WooCommerce support, color options & "
+"premium theme support."
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Additional Features:"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Additional Page Templates"
+msgstr ""
+
+#: inc/customizer.php:132 admin/admin.php:211
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Several additional widget areas"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Different Blog Options & Layouts"
+msgstr ""
+
+#: inc/customizer.php:141 admin/admin.php:221
+msgid "Different Theme Options"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "WooCommerce Support"
+msgstr ""
+
+#: inc/customizer.php:147 admin/admin.php:246
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Premium Theme Support"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Read more about Maisha"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Pro Features"
+msgstr ""
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/admin.php:49
+#, php-format
+msgid ""
+"Thanks for choosing Maisha Lite! To get started please make sure you visit "
+"our %2$swelcome page%3$s."
+msgstr ""
+
+#: admin/admin.php:50
+msgid ""
+"Maisha Lite is proudly brought to you by Anariel Design. If you like the "
+"theme do us a favor and give it a 5-star rating on WordPress to help us "
+"spread the word."
+msgstr ""
+
+#: admin/admin.php:51 admin/admin.php:57
+msgid "Rate This Theme"
+msgstr ""
+
+#: admin/admin.php:54
+msgid "Get Started with Maisha Lite"
+msgstr ""
+
+#: admin/admin.php:68 admin/admin.php:78
+msgid "Welcome to Maisha Lite"
+msgstr ""
+
+#: admin/admin.php:68
+msgid "Theme Info"
+msgstr ""
+
+#: admin/admin.php:82 admin/admin.php:280
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:86
+msgid ""
+"Maisha Lite is modern, responsive and accessibility ready theme. It is "
+"perfectly suited for charity and non-profit websites. \n"
+"It is such a great feeling to be inspired by someone or something. "
+"Inspiration makes you wanna spend your time creating, making this world a "
+"better place. Some time ago we watched \"Virunga\" documentary and that "
+"story inspired us to develop beautiful WordPress theme we named \"Maisha\". "
+"This is a lite free version of the \"Maisha\" theme. Hope you will enjoy it! "
+msgstr ""
+
+#: admin/admin.php:95
+msgid "Important Links:"
+msgstr ""
+
+#: admin/admin.php:97
+msgid "Theme Info Page"
+msgstr ""
+
+#: admin/admin.php:100
+msgid "Free Support Forum"
+msgstr ""
+
+#: admin/admin.php:103
+msgid "Membership Support Center"
+msgstr ""
+
+#: admin/admin.php:106
+msgid "Anariel Design Themes Showcase"
+msgstr ""
+
+#: admin/admin.php:113
+#, php-format
+msgid "Get Started with %s"
+msgstr ""
+
+#: admin/admin.php:120 admin/admin.php:127
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:123
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:130
+msgid "Support Forum"
+msgstr ""
+
+#: admin/admin.php:137
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:140
+msgid "Click \"Customize\" to open the Customizer."
+msgstr ""
+
+#: admin/admin.php:144
+msgid "Customize Theme"
+msgstr ""
+
+#: admin/admin.php:156
+msgid ""
+"Full version of this theme includes additional features; additional page "
+"templates, custom widgets, additional front page options, different blog "
+"options, different theme options, WooCommerce support, color options & "
+"premium theme support."
+msgstr ""
+
+#: admin/admin.php:160 admin/admin.php:265
+msgid "Upgrade to Maisha Pro"
+msgstr ""
+
+#: admin/admin.php:170
+msgid "Upgrade to Maisha for more awesome features:"
+msgstr ""
+
+#: admin/admin.php:175
+msgid "Features"
+msgstr ""
+
+#. Name of the theme
+#: admin/admin.php:176
+msgid "Maisha Lite"
+msgstr ""
+
+#: admin/admin.php:177
+msgid "Maisha"
+msgstr ""
+
+#: admin/admin.php:182
+msgid "Theme Price"
+msgstr ""
+
+#: admin/admin.php:183
+msgid "Free"
+msgstr ""
+
+#: admin/admin.php:186
+msgid "View Pricing"
+msgstr ""
+
+#: admin/admin.php:191
+msgid "Responsive Layout"
+msgstr ""
+
+#: admin/admin.php:196
+msgid "Page Templates"
+msgstr ""
+
+#: admin/admin.php:197
+msgid "3"
+msgstr ""
+
+#: admin/admin.php:198
+msgid "16"
+msgstr ""
+
+#: admin/admin.php:201
+msgid "Custom Menus"
+msgstr ""
+
+#: admin/admin.php:202 admin/admin.php:203
+msgid "2"
+msgstr ""
+
+#: admin/admin.php:206
+msgid "Header Options"
+msgstr ""
+
+#: admin/admin.php:216
+msgid "Different Blog Layouts"
+msgstr ""
+
+#: admin/admin.php:226
+msgid "Different Blog Options"
+msgstr ""
+
+#: admin/admin.php:231
+msgid "Premium Slider"
+msgstr ""
+
+#: admin/admin.php:236
+msgid "WooCommerce, BuddyPress, Give, bbPress, The Events Calendar Support"
+msgstr ""
+
+#: admin/admin.php:241
+msgid "Custom Plugins"
+msgstr ""
+
+#: admin/admin.php:251
+msgid "Extended Features"
+msgstr ""
+
+#: admin/admin.php:256
+msgid "Support"
+msgstr ""
+
+#: admin/admin.php:258
+msgid "Help Desk Ticketing System"
+msgstr ""
+
+#: admin/admin.php:275
+msgid "More Themes by Anariel Design"
+msgstr ""
+
+#: admin/admin.php:278
+msgid ""
+"Build Your Dream WordPress Site with Premium Niche Themes for Bloggers & "
+"Charities"
+msgstr ""
+
+#: admin/admin.php:283
+msgid "More Themes"
+msgstr ""
+
+#: admin/admin.php:290
+#, php-format
+msgid "%1$1s is proudly brought to you by %2$2s. If you like %3$3s: %4$4s."
+msgstr ""
+
+#: admin/admin.php:290
+msgid "Rate this theme"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"\"Maisha Lite\" is a lite &amp; free version of beautiful premium charity "
+"WordPress theme \"Maisha\". Theme is inspired by \"Virunga\" documentary. It "
+"is modern, responsive and mobile friendly theme."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.anarieldesign.com/free-charity-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "Anariel Design"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.anarieldesign.com/"
+msgstr ""
